@@ -106,3 +106,6 @@ You can modify the project’s appearance and layout by adjusting styles in:
 
 
 ![result](src/assets//2.jpeg)
+
+
+[Link to PDF](](src/assets/certificate.pdf)
