@@ -17,18 +17,31 @@ An automated certificate generator built using React.js and Material UI to creat
 # Project Structure
 
 tublian-certificate-generator/
+
 ├── public/
+
 │   ├── index.html          # Root HTML file
+
 │   └── ...                 # Other static files
+
 ├── src/
+
 │   ├── assets/
+
 │   │   └── certificate-template.png   # Certificate background image
+
 │   ├── components/
+
 │   │   ├── Certificate.js  # Component to render the certificate with input data
+
 │   │   └── CertificateForm.js # Form component for user inputs
+
 │   ├── App.js              # Main application component
+
 │   ├── index.css           # Global styles
+
 │   └── index.js            # React DOM rendering
+
 └── README.md               # Documentation file
 
 
@@ -42,21 +55,21 @@ Prerequisites
 
 # Installation
 
-Clone the repository:
+ - Clone the repository:
 
  git clone https://github.com/your-username/tublian-certificate-generator.git
 
  cd tublian-certificate-generator
 
-Install dependencies:
+ - Install dependencies:
 
  npm install
 
-Run the application:
+ - Run the application:
 
 npm start
 
-Open in the browser: Visit http://localhost:3000 to see the application in action.
+ - Open in the browser: Visit http://localhost:3000 to see the application in action.
 
 
 # Dependencies
@@ -72,11 +85,11 @@ Open in the browser: Visit http://localhost:3000 to see the application in actio
 
 # Usage
 
-Enter the Name, Description, Certificate ID and Date in the form fields.
+ - Enter the Name, Description, Certificate ID and Date in the form fields.
 
-Preview the certificate with real-time updates.
+ - Preview the certificate with real-time updates.
 
-Click Download PDF to generate and download the certificate.
+ - Click Download PDF to generate and download the certificate.
 
 
 # Customization
